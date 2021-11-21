@@ -1,0 +1,2 @@
+[flake8]
+exclude = portscanner/swig_portscanner.py
